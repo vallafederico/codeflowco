@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  '@studio-freight/lenis':
-    specifier: ^1.0.27
-    version: 1.0.27
-
 devDependencies:
   esbuild:
     specifier: ^0.19.5
@@ -213,10 +208,6 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
-
-  /@studio-freight/lenis@1.0.27:
-    resolution: {integrity: sha512-1I6EaWR9rxdFjIJtF52CtETJt9ngfY4AjawrJY5pLxCvHa/lQZ+1v2gTUntwNZkuks6E2It6YEXV6jnpnCZFjA==}
-    dev: false
 
   /esbuild@0.19.5:
     resolution: {integrity: sha512-bUxalY7b1g8vNhQKdB24QDmHeY4V4tw/s6Ak5z+jJX9laP5MoQseTOMemAr0gxssjNcH0MCViG8ONI2kksvfFQ==}

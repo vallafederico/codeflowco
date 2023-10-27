@@ -13,8 +13,5 @@
   "license": "ISC",
   "devDependencies": {
     "esbuild": "^0.19.5"
-  },
-  "dependencies": {
-    "@studio-freight/lenis": "^1.0.27"
   }
 }

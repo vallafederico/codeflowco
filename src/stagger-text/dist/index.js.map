@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.js"],
+  "sourcesContent": ["console.log(\"stagger-text\");\n"],
+  "mappings": ";;AAAA,UAAQ,IAAI,cAAc;",
+  "names": []
+}
